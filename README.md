@@ -68,12 +68,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=ashrika921&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ashrika921&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="ashrika921"/>
-      <img alt="Ashrika's streak" src="https://github-readme-streak-stats.herokuapp.com?user=ashrika921&theme=midnight-purple&date_format=M%20j%5B%2C%20Y%5D"/ >
 
 
 
 </div>
 
-<div align="center">
-    <img src="https://github.com/ashrika921/ashrika921/blob/output/github-contribution-grid-snake.svg"/>
-</div>
+
