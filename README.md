@@ -18,11 +18,9 @@
     
 - :man_technologist: I am currently working as **Software Developer** at **Veersa Technologies Pvt. Ltd.**
 
-- 🔭 I like **Web Development, Problem Solving and Python Programming**
+- 🔭 I like **Web Development, Problem Solving and C++ Programming**
 
-- 🌱 I’m currently learning **NodeJS**
-
-- 👯 I’m looking to collaborate on **React Frontend Projects**
+- 👯 I’m looking to collaborate on **Angular and React Frontend Projects**
 
 - 📫 How to reach me **ashrika499@gmail.com**
 - :scroll: Currently Open to work, here is my <a href="#"> resume</a>
@@ -44,7 +42,6 @@
 ![Typescript](https://img.shields.io/badge/-TypeScript-white?style=for-the-badge&logo=typescript)
 ![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react&logoColor=white)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
 ![Angular](https://img.shields.io/badge/-Angular-red?style=for-the-badge&logo=angular&logoColor=white)
 ![JSON](https://img.shields.io/badge/-json-02569B?style=for-the-badge&logo=json&logoColor=white)
@@ -52,8 +49,8 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=for-the-badge&logo=mysql&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-%23007396.svg?style=for-the-badge&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
 
 <br/><br/>
 
